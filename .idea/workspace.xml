@@ -22,6 +22,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,13 +38,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Oppgave1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Oppgave1 (1)">
+    <configuration name="Oppgave1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapittel1_1_10.Oppgave1" />
       <module name="Ukesoppgaver1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapittel1_1_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,14 +105,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Oppgave2" />
       <item itemvalue="Application.Oppgave5" />
       <item itemvalue="Application.Oppgave6" />
       <item itemvalue="Application.Oppgave1" />
+      <item itemvalue="Application.Oppgave1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oppgave1 (1)" />
         <item itemvalue="Application.Oppgave1" />
         <item itemvalue="Application.Oppgave5" />
         <item itemvalue="Application.Oppgave6" />
@@ -125,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597657883040</updated>
       <workItem from="1597657887180" duration="2732000" />
-      <workItem from="1598252954328" duration="6408000" />
+      <workItem from="1598252954328" duration="10634000" />
     </task>
     <servers />
   </component>
